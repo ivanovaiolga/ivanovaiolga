@@ -1,36 +1,34 @@
 Привет 👋 Меня зовут Ольга
 =============================
+
+<div style="text-align: justify;">
 Аналитик данных с опытом в управлении проектами и оптимизации бизнес-процессов.  
 
-Для работы с данными применяю языки программирования SQL и Python (pandas, numpy, seaborn, matplotlib, plotly), что помогает мне эффективно извлекать и анализировать большие объемы информации.  
-Визуализирую данные в Tableau, применяю в работе Git, Airflow, провожу AB-тестирование для проверки гипотез.  
+Для извлечения и обработки данных я использую языки программирования SQL и Python (библиотеки pandas, numpy, seaborn). Это позволяет проводить углубленный анализ данных с визуализацией и делать обоснованные выводы для принятия решений на основе фактов.  
+Создаю визуализации в Tableau, применяю в работе системы контроля версий Git.
 
-Ответственна, организована, быстро обучаюсь, развиваюсь в сфере аналитики, которая постоянно меняется и требует постоянного обучения.  
+Ответственна, организованна, быстро обучаюсь, развиваюсь в сфере аналитики, которая постоянно меняется и требует постоянного обучения.  
+</div>
 
 
+---
 #### ЯЗЫКИ И ИНСТРУМЕНТЫ:
-[![python](https://camo.githubusercontent.com/8e7ef4279b0f77e9cd7b27d90eb02b4a654e13f75e31ca141771c93aadb2f077/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d77686974653f6c6f676f3d707974686f6e267374796c653d666f722d7468652d6261646765)](https://www.python.org/)
-[![pandas](https://camo.githubusercontent.com/c0a79732fc6fddc428bbe83cdf5d7764f12d5eb9b4bb5acaa2ee15a450d27388/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70616e6461732d77686974653f6c6f676f3d70616e646173266c6f676f436f6c6f723d626c7565267374796c653d666f722d7468652d6261646765)](https://pandas.pydata.org/docs/reference/index.html)
-[![numpy](https://camo.githubusercontent.com/6bdac73b193c943b115366e240cc0b02bef003fd50e57e0b0bac65646d54fa4b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e756d70792d77686974653f6c6f676f3d6e756d7079266c6f676f436f6c6f723d626c7565267374796c653d666f722d7468652d6261646765)](https://numpy.org/doc/stable/reference/index.html)
-[![matplotlib](https://camo.githubusercontent.com/86e9def5b8ea4baaf6edc890845202c380fe5c19403fd0f3e91a14d5dbf71039/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6174706c6f746c69622d2532336666666666662e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d4d6174706c6f746c6962266c6f676f436f6c6f723d626c61636b)](https://matplotlib.org/)
-[![plotly](https://camo.githubusercontent.com/c8238a2e2f10b02b410d8f489fd450dc7f99c0304bd6ab09ee2582714902ebc1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706c6f746c792d77686974653f6c6f676f3d706c6f746c79266c6f676f436f6c6f723d626c7565267374796c653d666f722d7468652d6261646765)](https://plotly.com/python/)
-[![scipy](https://camo.githubusercontent.com/f0473ed81ad5ffe0220070ec599a3e9418d9e8f3fdb51c31f79d1c3f462b0ae5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53636970792d77686974653f6c6f676f3d5363697079266c6f676f436f6c6f723d626c61636b267374796c653d666f722d7468652d6261646765)](https://docs.scipy.org/doc/scipy/reference/index.html)
-[![clickhouse](https://camo.githubusercontent.com/2ed62ad2ff9c387d16d66de27dafd68c9ba623814d2f08e3b6645c829007ef03/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436c69636b686f7573652d77686974653f6c6f676f3d436c69636b686f757365267374796c653d666f722d7468652d6261646765)](https://clickhouse.com/docs/ru)
-[![redash](https://camo.githubusercontent.com/6da5a75670fc7be40cba6c2b0a8ef7bc5b24eab302f8b03784e24d39fcabdb6a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7265646173682d77686974653f6c6f676f3d726564617368266c6f676f436f6c6f723d626c61636b267374796c653d666f722d7468652d6261646765)](https://redash.io/product/)
-[![mysql](https://camo.githubusercontent.com/f6e07d70690b82fbb2f36997d502d1a18ea3eee5af23527e1d684d69dc721711/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7953514c2d77686974653f6c6f676f3d6d7953514c2673267374796c653d666f722d7468652d6261646765)](https://www.mysql.com/)
-[![tabix](https://camo.githubusercontent.com/728ddedafb5ba026f76ec69bdf7748e01fa58ed21570a63bdd7a60b1422fa728/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f74616269782d77686974653f7374796c653d666f722d7468652d6261646765266c6f676f3d7461626978)](https://tabix.io/)
-[![tableau](https://camo.githubusercontent.com/104718c10f89478d6f1b7093e75b25c384ddd12280dd7ccbc3a606a2d207c411/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461626c6561752d77686974653f6c6f676f3d5461626c6561752673266c6f676f436f6c6f723d79656c6c6f77267374796c653d666f722d7468652d6261646765)](https://public.tableau.com/app/profile/natalia.shishkova/vizzes)
-[![gitlab](https://camo.githubusercontent.com/b4edf6def691b38628f127d96d3a835f9d0ff6db3409c144cfe70d94325da9d5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746c61622d77686974653f6c6f676f3d6769746c6162266c6f676f436f6c6f723d626c61636b267374796c653d666f722d7468652d6261646765)](https://about.gitlab.com/)
-[![jupyter](https://camo.githubusercontent.com/04a25ffa67d818039bb4b4e3cf2741f177e0dba196ce03fa2e821176b9556eee/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a7570797465725f6e6f7465626f6f6b2d77686974653f6c6f676f3d4a757079746572267374796c653d666f722d7468652d6261646765)](https://jupyter.org/)
-[![postgresql](https://camo.githubusercontent.com/21989393dad5c52c4a50c451c0108d5ea48b8d843c74ca206f9734c4aafc1fbf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d77686974653f6c6f676f3d506f737467726553514c2673267374796c653d666f722d7468652d6261646765)](https://www.postgresql.org/)
-[![airflow](https://camo.githubusercontent.com/c7e50ebf016788535cff4715ba37a6a59ce385fc9802bd78947b24e257961df7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f414952464c4f572d4646464646463f7374796c653d666f722d7468652d6261646765266c6f676f3d617061636865616972666c6f77266c6f676f436f6c6f723d303137434545)](https://airflow.apache.org/)
-[![github](https://camo.githubusercontent.com/389317b991a7d3b00d6be4b08a6b2deb48bfdb5d5805e5fde5868d71c83808b7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d77686974653f6c6f676f3d676974687562266c6f676f436f6c6f723d626c61636b267374796c653d666f722d7468652d6261646765)](https://github.com/)
-[![excel](https://camo.githubusercontent.com/cb9b184c20a436cf66e22f9b0353cd4e3b0a75cc66a51f1100b1a62858930a07/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f657863656c2d77686974653f6c6f676f3d457863656c266c6f676f436f6c6f723d626c61636b267374796c653d666f722d7468652d6261646765)](https://www.microsoft.com/ru-ru/microsoft-365/excel?market=ru)
+![Static Badge](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/Pandas-white?style=for-the-badge&logo=pandas&logoColor=%23150458)
+![Static Badge](https://img.shields.io/badge/numpy-white?style=for-the-badge&logo=numpy&logoColor=%23013243)
+![Static Badge](https://img.shields.io/badge/clickhouse-white?style=for-the-badge&logo=clickhouse&logoColor=%23FFCC01)
+![Static Badge](https://img.shields.io/badge/redash-white?style=for-the-badge&logo=redash&logoColor=%23FF7964)
+![Static Badge](https://img.shields.io/badge/tableau-white?style=for-the-badge&logo=tableau&logoColor=%23E97627)
+![Static Badge](https://img.shields.io/badge/github-white?style=for-the-badge&logo=github&logoColor=%23181717)
+![Static Badge](https://img.shields.io/badge/jupyter-white?style=for-the-badge&logo=jupyter&logoColor=%23F37626)
+![Static Badge](https://img.shields.io/badge/postgresql-white?style=for-the-badge&logo=postgresql&logoColor=%234169E1)
+![Static Badge](https://img.shields.io/badge/airflow-white?style=for-the-badge&logo=apacheairflow&logoColor=%23017CEE)
+![Static Badge](https://img.shields.io/badge/redash-white?style=for-the-badge&logo=redash&logoColor=%23FF7964)
 
-
+---
 #### КОНТАКТЫ: 
-[![telegram](https://camo.githubusercontent.com/8f41682a178e57a174d0c6042e9cdb842c6329b24c34b2bf4206c25e933073a9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3243413545303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465)](https://t.me/o_iva)
-[![whatsapp](https://camo.githubusercontent.com/21f856b5062ad7d3d6ed3ca68a73b8f31fb1fdecccf729a3dbe3d330241930d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d57484154534150502d3238443134363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d464646464646)](https://api.whatsapp.com/send/?phone=9510604282&text&type=phone_number&app_absent=0)
+<a target="_blank" href="https://t.me/o_iva">
+  <img src="https://img.shields.io/badge/telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></img></a>
 <a target="_blank" href="https://www.linkedin.com/in/olga-ivanova-1000512a"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:ivanovaiolga@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 
